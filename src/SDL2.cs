@@ -1,4 +1,4 @@
-﻿#region License
+#region License
 /* SDL2# - C# Wrapper for SDL2
  *
  * Copyright (c) 2013-2015 Ethan Lee.
